@@ -1,0 +1,6 @@
+/home/ubuntu/rabbitmq-metronome/deps/amqp_client
+/home/ubuntu/rabbitmq-metronome/deps/rabbit
+/home/ubuntu/rabbitmq-metronome/deps/rabbit_common
+/home/ubuntu/rabbitmq-metronome/deps/rabbitmq_codegen
+/home/ubuntu/rabbitmq-metronome/deps/ranch
+/home/ubuntu/rabbitmq-metronome/deps/recon
